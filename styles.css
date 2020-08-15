@@ -1,0 +1,35 @@
+body{
+    background: url(sky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+}
+.nav{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin:0% 10% 0% 10%;
+    border-radius: 10px;
+}
+a:hover{
+    color: black;
+    border-top: 2px solid black;
+}
+.me{
+    color: white;
+    text-align: center; 
+}
+img{
+    background-color: white;
+    opacity: 80%;
+}
+.me #nav .media{
+    background-color: white;
+}
+.media{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 20% 20% 0% 20%;
+    border-radius: 5px; 
+}
