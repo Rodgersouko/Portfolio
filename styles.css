@@ -22,6 +22,7 @@ a:hover{
 img{
     background-color: white;
     border-radius: 50%;
+    border: 5px solid white;
 }
 .me #nav .media{
     background-color: white;
