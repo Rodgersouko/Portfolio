@@ -1,8 +1,8 @@
 body{
-    background: url(sky.jpg);
+    background: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 100%;
+    
 }
 .nav{
     text-align: center;
@@ -21,7 +21,7 @@ a:hover{
 }
 img{
     background-color: white;
-    opacity: 80%;
+    border-radius: 50%;
 }
 .me #nav .media{
     background-color: white;
