@@ -22,3 +22,8 @@ body{
     background-color: white; opacity: 80%;
     border-radius: 5px;
 }
+a:hover{
+    background-color:goldenrod;
+    padding: 10px;
+    border-radius: 2px;
+}

@@ -13,8 +13,9 @@ body{
     letter-spacing: 4px;
 }
 a:hover{
-    color: black;
-    border-top: 2px solid black;
+    background-color:goldenrod;
+    padding: 10px;
+    border-radius: 2px;
 }
 .me{
     color: goldenrod;

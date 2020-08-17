@@ -25,3 +25,8 @@ body{
 h2{
     text-align:center;
 }
+a:hover{
+    background-color:goldenrod;
+    padding: 10px;
+    border-radius: 2px;
+}
