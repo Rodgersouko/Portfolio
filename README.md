@@ -40,4 +40,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## [License](https://rodgersouko.github.io/Portfolio/master/LICENSE.md)
 
-MIT © [Hamisi Andale](https://rodgersouko.github.io/Portfolio/)
+MIT © [Rogers Ouko](https://rodgersouko.github.io/Portfolio/)
