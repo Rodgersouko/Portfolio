@@ -1,15 +1,43 @@
-Project Name
-My Portfolio!
+# ![My-portfolio](https://rodgersouko.github.io/Portfolio/)
+# portfolio
+<table>
+<tr>
+<td>
+  This is my portfolio it speaks more about me and the projects i have done.You are welcome to checking it out.
+</td>
+</tr>
+</table>
 
-Table of contents
-General info/About
-Contact
-This is my portfolio created to display my skills in coding
 
-Project is: in progress modification and additional achivements
+## Demo
+Here is a working live demo :  https://rodgersouko.github.io/Portfolio/
 
-Inspiration
-This project is inspired by the my creative works done in the near past
+### Development
+Want to contribute? Great!
 
-Contact
-Created by gabrielaouko@gmail.com - feel free to contact me!
+To fix a bug or enhance an existing module, follow these steps:
+
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -am 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request 
+
+### Bug / Feature Request
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://rodgersouko.github.io/Portfolio/) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://rodgersouko.github.io/Portfolio/). Please include sample queries and their corresponding results.
+
+
+## Built with 
+
+- HTML
+- CSS
+- JavaScript
+
+## [License](https://rodgersouko.github.io/Portfolio/master/LICENSE.md)
+
+MIT © [Hamisi Andale](https://rodgersouko.github.io/Portfolio/)
